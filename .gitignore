@@ -1,0 +1,54 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+build/
+develop-eggs/
+dist/
+.eggs/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*,cover
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# IDEs and editors
+.idea/
+.vscode/
+
+# Lightning logs and checkpoints
+lightning_logs/
+*.ckpt
+
+# Data files
+*.csv
+*.csv.zip
+*.json
+*.pickle
+
+# OS files
+.DS_Store
+Thumbs.db
+
